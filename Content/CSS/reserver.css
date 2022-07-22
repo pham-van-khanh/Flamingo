@@ -1,0 +1,28 @@
+:root {
+    --colorGreen: hsl(190deg 24% 35%);
+    
+}
+main .booking{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(14,174,87,1) 0%, rgba(12,116,117,1) 90% );
+}
+main .bg-color{
+    background-color: rgb(12 116 117);
+
+}
+.heading-title {
+    color: rgb(12 116 117);
+}
+.col .size-icon{
+    font-size: 25px;
+}
+section.villa.box{
+    box-shadow: 0 0.01rem 1rem 0.0025rem rgba(0,0,0,0.25);
+    border-radius: 12px;
+    /* padding: 10px; */
+}
+main section.booking.header{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(14,174,87,1) 0%, rgba(12,116,117,1) 90% );
+}
+main section.booking.header .fas{
+    color: #ffff;
+}
